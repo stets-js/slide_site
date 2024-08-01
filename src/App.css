@@ -1,7 +1,10 @@
 .App {
     position: relative;
     width: 100%;
+    max-width: 1525px;
     height: 100vh;
+    max-height: 1055px;
+    margin: 0 auto;
   }
 
   body {

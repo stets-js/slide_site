@@ -5,6 +5,7 @@ import image1 from './assets/slide1.png';
 import image2 from './assets/slide2.png';
 import image3 from './assets/slide3.png';
 import image4 from './assets/slide4.png';
+import image5 from './assets/slide6.png';
 import image6 from './assets/slide6.png';
 import image7 from './assets/slide7.png';
 import image8 from './assets/slide8.png';
@@ -33,8 +34,9 @@ const slidesData = [
   { image: image2, text: 'Змінюй пароль! Натискай "Reset"', tipClass: 'tip2', btnClass: 'btn2' },
   { image: image3, text: 'Щоб увійти в систему, натискай "Log in"', tipClass: 'tip3', btnClass: 'btn3' },
   { image: image4, text: 'Вводь змінену пошту та пароль. Натискай "Log in"', tipClass: 'tip4', btnClass: 'btn4' },
-  { image: image6, text: 'Щоб змінити дані ментора, натискай на олівець поряд з іменем ментора', tipClass: 'tip6', btnClass: 'btn6' },
+  { image: image5, text: 'Натисни "add new user" щоб створити нового користувача', tipClass: 'tip5', btnClass: 'btn5' },
   { image: image7, text: 'Введи дані нового користувача і його роль, щоб створити', tipClass: 'tip7', btnClass: 'btn7' },
+  { image: image6, text: 'Щоб змінити дані ментора, натискай на олівець поряд з іменем ментора', tipClass: 'tip6', btnClass: 'btn6' },
   { image: image8, text: 'Відредагуй дані і натисни "Save". Щоб призначити курс, натисни "Courses"', tipClass: 'tip8', btnClass: 'btn8' },
   { image: image9, text: 'Відміть курси, які веде ментор і вкажи напрямок (софт, тех чи ультімейт)', tipClass: 'tip9', btnClass: 'btn9' },
   { image: image10, text: 'Призначення софт', tipClass: 'tip10', btnClass: 'btn10' },

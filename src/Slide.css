@@ -62,6 +62,7 @@
 .btn2 { top: 128px; left: 438px; }
 .btn3 { top: 125px; left: 439px; }
 .btn4 { top: 500px; left: 438px; }
+.btn5 { top: 270px; left: 390px; width: 250px; }
 .btn6 { top: 539px; left: 823px; }
 .btn7 { top: 600px; left: 437px; }
 .btn8 { top: 607px; left: 428px; }
@@ -122,6 +123,7 @@
 .tip2 { top: 250px; left: 450px; }
 .tip3 { top: 250px; left: 400px; }
 .tip4 { top: 50px; left: 400px; }
+.tip5 { top: 50px; left: 400px; }
 .tip6 { top: 250px; left: 522px; }
 .tip7 { top: 600px; left: 0px;  max-width: 35%; }
 .tip8 { top: 375px; left: 125px; }
@@ -156,6 +158,9 @@
 
 .tip4::before { top: 97px; left: 20px; }
 .tip4::after { top: 99px; left: 18px; }
+
+.tip5::before { bottom: -39px; left: 20px; }
+.tip5::after { bottom: -43px; left: 18px; }
 
 .tip6::before { top: 96px; left: 330px; }
 .tip6::after { top: 100px; left: 330px; }

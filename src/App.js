@@ -17,9 +17,6 @@ import image16 from './assets/slide16.png';
 import image17 from './assets/slide17.png';
 import image18 from './assets/slide18.png';
 import image20 from './assets/slide20.png';
-import image22 from './assets/slide22.png';
-import image23 from './assets/slide23.png';
-import image24 from './assets/slide24.png';
 import image25 from './assets/slide25.png';
 import image26 from './assets/slide26.png';
 import image27 from './assets/slide27.png';
@@ -48,9 +45,6 @@ const slidesData = [
   { image: image17, text: 'Сторінка уроків. Щоб виставити заміну, натисни "Replace"', tipClass: 'tip17', btnClass: 'btn17' },
   { image: image18, text: 'Фільтр по курсах і даті', tipClass: 'tip18', btnClass: 'btn18' },
   { image: image20, text: 'Фільтр "Курс" - виставляється автоматично. Фільтр "Тип уроку" - обери тип уроку. Обери потрібний час в табличці і натисни "Create"', tipClass: 'tip20', btnClass: 'btn20' },
-  // { image: image22, text: 'БАГ', tipClass: 'tip22', btnClass: 'btn22' },
-  // { image: image23, text: 'БАГ', tipClass: 'tip23', btnClass: 'btn23' },
-  // { image: image24, text: 'БАГ', tipClass: 'tip24', btnClass: 'btn24' },
   { image: image25, text: 'Зараз перед тобою сторінка призначення. Введи всі потрібні дані: Курс, Тип (група, індив, група для малих). Введи дату старту і кінця існування потоку (у груп заняття рік+, у індивів рік (уточнити))', tipClass: 'tip25', btnClass: 'btn25' },
   { image: image26, text: 'Обери потрібі слоти (група - обереться три слоти, індив - два, джуніор група - два) і натисни "Create". Якщо слоти обрано неправильно, натисни "Clear"', tipClass: 'tip26', btnClass: 'btn26' },
   { image: image27, text: 'Обери ментора, призначення, посилання на чат групи, потік, на який призначається вчитель. Курс, дати і розклад заповнюються автоматично', tipClass: 'tip27', btnClass: 'btn27' },

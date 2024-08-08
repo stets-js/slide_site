@@ -154,8 +154,8 @@
 .tip3::before { top: -39px; left: 20px; transform: rotate(180deg); }
 .tip3::after { top: -40px; left: 18px; transform: rotate(180deg); }
 
-.tip4::before { top: 107px; left: 20px; }
-.tip4::after { top: 112px; left: 18px; }
+.tip4::before { top: 97px; left: 20px; }
+.tip4::after { top: 99px; left: 18px; }
 
 .tip6::before { top: 96px; left: 330px; }
 .tip6::after { top: 100px; left: 330px; }
@@ -178,8 +178,8 @@
 .tip13::before { bottom: -38px; left: 20px; }
 .tip13::after { bottom: -43px; left: 18px; }
 
-.tip15::before { top: -38px; left: 20px; transform: rotate(180deg); }
-.tip15::after { top: -38px; left: 18px; transform: rotate(180deg); }
+.tip15::before { top: 96px; left: 20px; }
+.tip15::after { top: 98px; left: 18px; }
 
 .tip16::before { top: -38px; left: 20px; transform: rotate(180deg); }
 .tip16::after { top: -38px; left: 18px; transform: rotate(180deg); }

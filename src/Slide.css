@@ -74,7 +74,10 @@
 .btn16 { top: 437px; left: 435px;}
 .btn17 { top: 603px; left: 743px;}
 .btn18 { top: 410px; left: 288px; width: 450px;}
-.btn20 { top: 541px; left: 664px;}
+.btn20 { top: 546px; left: 275px; width: 250px;}
+.btn22 { top: 555px; left: 305px;}
+.btn23 { top: 133px; left: 664px;}
+.btn24 { top: 616px; left: 438px;}
 .btn25 { top: 578px; left: 569px;}
 .btn26 { top: 260px; left: 675px;}
 .btn27 { top: 683px; left: 438px;}
@@ -136,6 +139,9 @@
 .tip17 { top: 432px; left: 461px; }
 .tip18 {top: 503px; left: 341px; }
 .tip20 {top: 335px; left: 341px; max-height: 110px;}
+.tip22 {top: 335px; left: 341px; max-height: 110px;}
+.tip23 {top: 240px; left: 341px; max-height: 110px;}
+.tip24 {top: 600px; left: 650px; max-width: 35%; }
 .tip25 {top: 25px; left: 341px; max-height: 210px;}
 .tip26 {top: 25px; left: 341px; max-height: 210px;}
 .tip27 {top: 200px; left: 544px; max-height: 210px;}
@@ -195,8 +201,17 @@
 .tip18::before { top: -39px; left: 20px; transform: rotate(180deg); }
 .tip18::after { top: -40px; left: 18px; transform: rotate(180deg); }
 
-.tip20::before { top: 150px; left: 371px; }
-.tip20::after { top: 154px; left: 371px; }
+.tip20::before { top: 125px; left: 50px; }
+.tip20::after { top: 127px; left: 50px; }
+
+.tip22::before { bottom: -38px; left: 20px; }
+.tip22::after { bottom: -42px; left: 18px; }
+
+.tip23::before { top: -39px; left: 350px; transform: rotate(180deg); }
+.tip23::after { top: -40px; left: 353px; transform: rotate(180deg); }
+
+.tip24::before { top: 12px; left: -37px; transform: rotate(90deg);}
+.tip24::after { top: 12px; left: -39px; transform: rotate(90deg);}
 
 .tip25::before { top: 241px; left: 371px; }
 .tip25::after { top: 245px; left: 371px; }

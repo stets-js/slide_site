@@ -85,9 +85,25 @@ function App() {
         />
       ))}
       {currentIndex === slidesData.length && (
+        <>
+        <div class="confetti">
+        <div class="confetti-piece"></div>
+        <div class="confetti-piece"></div>
+        <div class="confetti-piece"></div>
+        <div class="confetti-piece"></div>
+        <div class="confetti-piece"></div>
+        <div class="confetti-piece"></div>
+        <div class="confetti-piece"></div>
+        <div class="confetti-piece"></div>
+        <div class="confetti-piece"></div>
+        <div class="confetti-piece"></div>
+        <div class="confetti-piece"></div>
+        <div class="confetti-piece"></div>
+        <div class="confetti-piece"></div>
+      </div>
         <button onClick={() => setCurrentIndex(0)} className="restart-button">
           Повторити
-        </button>
+        </button></>
       )}
     </div>
   );
